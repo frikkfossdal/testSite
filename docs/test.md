@@ -5,4 +5,4 @@ layout: home
 
 # This is a test
 
-![](./../asstets/cinema.jpg)
+![](../asstets/cinema.jpg)
